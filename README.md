@@ -1,4 +1,4 @@
-# Mammoth DocX import Etherpad plugin
+# Mammoth DocX import Etherpad plugin: tweaked for Togatec/teambutler
 
 Tired of losing fidelity when importing those horrible Microsoft .docx files?  This plugin solves that. 
 
